@@ -76,6 +76,7 @@
     <Compile Include="Assets/VRTemplateAssets/Scripts/CalloutGazeController.cs" />
     <Compile Include="Assets/dancar.cs" />
     <Compile Include="Assets/VRTemplateAssets/Scripts/BezierCurve.cs" />
+    <Compile Include="Assets/adaga.cs" />
     <Compile Include="Assets/VRTemplateAssets/Scripts/LaunchProjectile.cs" />
     <Compile Include="Assets/VRTemplateAssets/Scripts/StepManager.cs" />
     <Compile Include="Assets/VRTemplateAssets/Scripts/AnchorVisuals.cs" />
